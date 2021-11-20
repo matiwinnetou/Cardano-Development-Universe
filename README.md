@@ -126,6 +126,9 @@
 ## Rust cardano ecosystem network
 - https://github.com/2nd-Layer/rust-cardano-ouroboros-network
 
+## Cardano's web3.js (work in progress)
+- https://github.com/ray-network/cardano-web3.js
+
 ## cardano-wallet-js
 - https://github.com/tango-crypto/cardano-wallet-js
 
