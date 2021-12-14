@@ -79,6 +79,9 @@
 ### Plutus Extra
 - https://github.com/Liqwid-Labs/plutus-extra
 
+### Byron DEX
+- https://github.com/byron-network/byron-dex
+
 ### Alonzo Hello World smart contract
 - https://github.com/fivebinaries/welcome-to-alonzo
 
